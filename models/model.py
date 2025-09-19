@@ -1,0 +1,17 @@
+class Trap(BaseModel):
+    id: int
+    trap_key: str
+    province: str
+    municipality: str
+    neighborhood: str
+    health_area: str
+    ovitrap_code: str
+    block_code: str
+    address: str
+    location_description: str
+    latitude: float
+    longitude: float
+    created_at: str
+    updated_at: str
+    created_by: str
+    status: str

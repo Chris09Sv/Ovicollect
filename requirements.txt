@@ -1,0 +1,10 @@
+streamlit
+streamlit-aggrid
+pandas
+streamlit-geolocation
+folium
+streamlit-folium
+streamlit-js-eval
+matplotlib
+xlsxwriter
+streamlit_extras
